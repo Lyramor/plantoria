@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(composer install:*)",
+      "Bash(npm install)",
+      "Bash(npm install:*)",
+      "Bash(npx tailwindcss init:*)",
+      "Bash(npx.cmd tailwindcss:*)",
+      "Bash(composer:*)",
+      "Bash(php artisan breeze:install:*)",
+      "Bash(php artisan make:migration:*)",
+      "Read(/D:\\laragon\\www\\plantoria\\database\\migrations/**)",
+      "Read(/D:\\laragon\\www\\plantoria\\database\\migrations/**)",
+      "Bash(php artisan make:controller:*)",
+      "Bash(php artisan make:seeder:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
